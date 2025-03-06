@@ -26,7 +26,7 @@
 //    }
 // }
 
-// let a =  ["pulsar","hero","yamaha","tvs","duke","ktm"]
+ //let a =  ["pulsar","hero","yamaha","tvs","duke","ktm"]
 
 // console.log(a.splice(2,1,"honda"));
 // console.log(a);
@@ -38,9 +38,9 @@
 
 // console.log(a.concat(b));
 
-let a = [22,33,16,18,44]
-let res = a.filter(res => res > 20)
-console.log(res);
+// let a = [22,33,16,18,44]
+// let res = a.filter(res => res > 20)
+// console.log(res);
 
 
 let b =  ["pulsar","hero","yamaha","tvs","duke","ktm"]
