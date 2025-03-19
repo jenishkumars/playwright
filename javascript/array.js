@@ -43,6 +43,6 @@
 // console.log(res);
 
 
-let b =  ["pulsar","hero","yamaha","tvs","duke","ktm"]
+let b =  ["pulsar","hero","yamaha","tvs","duke","duke"]
 let bike =b.filter(res => res=="duke")
 console.log(bike);
