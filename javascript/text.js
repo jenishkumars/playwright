@@ -1,5 +1,5 @@
-let a = 10
+let a = 40
 
-let b = 20
+let b = 60
  console.log(a+b);
 
